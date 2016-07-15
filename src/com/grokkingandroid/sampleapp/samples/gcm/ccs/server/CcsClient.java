@@ -73,9 +73,9 @@ public class CcsClient {
 
     /// new: some additional instance and class members
     private static CcsClient sInstance = null;
-    private String mApiKey = null;
-    private String mProjectId = null;
-    private boolean mDebuggable = false;
+    private String mApiKey = "AIzaSyCin8UIcRdI0Hd_ZwfaUFjtdrGNcQ8Ltfc";
+    private String mProjectId = "round-essence-136023";
+    private boolean mDebuggable = true;
 
     /**
      * XMPP Packet Extension for GCM Cloud Connection Server.
